@@ -1,0 +1,22 @@
+{
+    "firstname": "Rack",
+    "lastname": "Jackon",
+    "gender": "man",
+    "age": "24",
+    "Pet": ["Dog", "cat"],
+    "address": {
+        "streetAddress": "126",
+        "city": "San Jone",
+        "state": "CA",
+        "postalCode": "394221"
+        
+    },
+    "phonenumber": [
+        { "type": "home",
+         "number": "7383627627" }
+    ],
+    "job": "Developer",
+    "employeeCode": "E1",
+    "region": "CA",
+    "email": "racks.jacson@learningcontainer.com"
+}
