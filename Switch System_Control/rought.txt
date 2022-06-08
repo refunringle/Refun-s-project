@@ -1,0 +1,12 @@
+
+## we use this code for below things in our pc########
+
+
+
+1. Shutdown Computer Immediately
+2. Shutdown Computer after Given Time
+3. Restart Computer Immediately
+4. Restart Computer after Given Time
+
+------------------------------------------------------
+
